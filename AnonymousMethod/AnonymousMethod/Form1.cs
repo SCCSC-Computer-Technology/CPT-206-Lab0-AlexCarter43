@@ -11,6 +11,10 @@ namespace AnonymousMethod
         {
             InitializeComponent();
         }
+        private void message () 
+        {
+            MessageBox.Show("Click Demo Button.");
+        }
 
         private void demoButton_Click(object sender, EventArgs e)
         {
