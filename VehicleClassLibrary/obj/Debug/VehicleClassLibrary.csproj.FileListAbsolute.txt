@@ -1,0 +1,6 @@
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\bin\Debug\VehicleClassLibrary.dll
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\bin\Debug\VehicleClassLibrary.pdb
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\obj\Debug\VehicleClassLibrary.csproj.AssemblyReference.cache
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\obj\Debug\VehicleClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\obj\Debug\VehicleClassLibrary.dll
+C:\Users\MrNattyDread\source\repos\VehicleClassLibrary\obj\Debug\VehicleClassLibrary.pdb
